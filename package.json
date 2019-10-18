@@ -6,7 +6,7 @@
     "url": "git@github.com:magicismight/react-native-root-siblings.git"
   },
   "license": "MIT",
-  "main": "./lib/RootSiblingsManager.js",
+  "main": "./lib/rootSiblingsManager.js",
   "description": "react native root sibling elements manager",
   "scripts": {
     "lint": "npx tslint ./src/* --fix",
